@@ -2,8 +2,6 @@
 
 A elegant polish math expression compiler.
 
-![screenshot](images/kompilator.png)
-
 ## Getting Started
 
 Clone the project:
@@ -56,10 +54,6 @@ bin/format
 
 [Squash pull request into a single commit](http://eli.thegreenplace.net/2014/02/19/squashing-github-pull-requests-into-a-single-commit/)
 
-## Code status
-
-[![Build Status](https://travis-ci.org/vgsantoniazzi/tiny-lang.svg?branch=master)](https://travis-ci.org/vgsantoniazzi/tiny-lang)
-
 ## License
 
-Tiny lang is released under the [MIT license](http://opensource.org/licenses/MIT).
+Kompilator is released under the [MIT license](http://opensource.org/licenses/MIT).
