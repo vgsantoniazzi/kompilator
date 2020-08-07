@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for DIRECTORY in src
+do
+    find "$DIRECTORY" \( -name '*.h' -or -name '*.c' \) -print0 | xargs -0 clang-format -i -style=llvm
+done
