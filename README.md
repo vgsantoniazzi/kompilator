@@ -38,6 +38,19 @@ make install
 make clean
 ```
 
+##### Docs
+
+To generate the docs, using doxygen.
+
+All header `.h` files are documented. Some `.c` implementation have
+comments in the source code to explain a hard implementation.
+
+```
+make docs
+```
+
+Access docs/html/index.html
+
 ## Contributing
 
 I :heart: Open source!
